@@ -88,6 +88,7 @@ Average waiting time of an object in the system S2: 0.60 secs
 Average waiting time of an object in the system S3: 1.78 secs
 --------------------------------------------------------------
 ```
+https://colab.research.google.com/drive/1Qj6mf-YXBSY2Os4_fF2K2FIAJsTB_nhf?usp=sharing
 ## Result:
 The average number of material in the system and in the conveyor and waiting are  successfully found.  
 
